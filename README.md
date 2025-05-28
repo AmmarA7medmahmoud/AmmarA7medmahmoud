@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Ammar 👋
 
-<!--
-**AmmarA7medmahmoud/AmmarA7medmahmoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 13-year-old student with a big passion for web development.  
+💻 I love building websites using HTML & CSS.  
+🚀 Always curious, always learning new things.  
+🏆 I won 1st place in a web development competition.  
+🕊 Fun fact: I also enjoy raising pigeons!
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- HTML
+- CSS
+- Learning JavaScript soon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+You can find me on GitHub and follow my projects here.
+
+Thanks for visiting my profile! 😄
+
